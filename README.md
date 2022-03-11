@@ -1,1 +1,1 @@
-# samples-netcoreapi
+# netcore api samples
