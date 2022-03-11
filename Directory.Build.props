@@ -1,0 +1,20 @@
+<Project>
+	<PropertyGroup>
+		<BaseIntermediateOutputPath>$(SolutionDir)\artifacts\$(MSBuildProjectName)\$(Configuration)</BaseIntermediateOutputPath>
+		<BaseOutputPath>$(SolutionDir)\artifacts\$(MSBuildProjectName)\$(Configuration)</BaseOutputPath>
+		<RepositoryUrl>https://github.com/fred-thevenon/samples-netcoreapi.git</RepositoryUrl>
+		<RepositoryType>git</RepositoryType>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	</PropertyGroup>
+
+	<PropertyGroup>
+		<Deterministic>true</Deterministic>
+		<EnableNETAnalyzers>true</EnableNETAnalyzers>
+		<AnalysisLevel>latest</AnalysisLevel>
+		<AnalysisMode>Default</AnalysisMode>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Nerdbank.GitVersioning" Version="3.4.255" PrivateAssets="all" />
+	</ItemGroup>
+</Project>
