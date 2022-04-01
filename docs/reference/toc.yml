@@ -1,0 +1,11 @@
+### YamlMime:TableOfContent
+- uid: Sample.Api
+  name: Sample.Api
+  items:
+  - uid: Sample.Api.WeatherForecast
+    name: WeatherForecast
+- uid: Sample.Api.Controllers
+  name: Sample.Api.Controllers
+  items:
+  - uid: Sample.Api.Controllers.WeatherForecastController
+    name: WeatherForecastController

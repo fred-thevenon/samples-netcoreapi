@@ -1,12 +1,5 @@
-- name: "Sample Api Documentation"
-  href: index.md
-- name: "Setup"
-  items:
-    - name: "Getting Started with the Sample Api"
-      href: get-started.md
-- name: "Architecture Decision Records"
-  items:
-    - name: Exception Middleware
-      href: decisionrecords/exceptionmiddleware.md
-- name: "Troubleshooting"
-  href: troubleshooting.md
+items:
+  - name: Documentation
+    href: architecture-decisions/
+  - name: Reference
+    href: reference/

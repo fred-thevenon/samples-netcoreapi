@@ -1,0 +1,12 @@
+{
+  "Sample.Api": "Sample.Api.yml",
+  "Sample.Api.Controllers": "Sample.Api.Controllers.yml",
+  "Sample.Api.Controllers.WeatherForecastController": "Sample.Api.Controllers.WeatherForecastController.yml",
+  "Sample.Api.Controllers.WeatherForecastController.#ctor(ILogger{Sample.Api.Controllers.WeatherForecastController})": "Sample.Api.Controllers.WeatherForecastController.yml",
+  "Sample.Api.Controllers.WeatherForecastController.Get": "Sample.Api.Controllers.WeatherForecastController.yml",
+  "Sample.Api.WeatherForecast": "Sample.Api.WeatherForecast.yml",
+  "Sample.Api.WeatherForecast.Date": "Sample.Api.WeatherForecast.yml",
+  "Sample.Api.WeatherForecast.Summary": "Sample.Api.WeatherForecast.yml",
+  "Sample.Api.WeatherForecast.TemperatureC": "Sample.Api.WeatherForecast.yml",
+  "Sample.Api.WeatherForecast.TemperatureF": "Sample.Api.WeatherForecast.yml"
+}
